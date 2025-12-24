@@ -1,0 +1,21 @@
+# Reference data (cloned repos for database building)
+reference_data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Logs
+*.jsonl
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Zig Build Artifacts
+zig-cache/
+zig-out/

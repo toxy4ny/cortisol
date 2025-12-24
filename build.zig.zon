@@ -1,0 +1,11 @@
+.{
+    .name = .cortisol,
+    .version = "0.1.0",
+    .fingerprint = 0xbaf89a632c3a6b45,
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
